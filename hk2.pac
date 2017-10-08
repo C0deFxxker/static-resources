@@ -2434,7 +2434,7 @@ var domains = {
   "w3schools.com": 1, 
   "thetibetpost.com": 1, 
   "tw-blog.com": 1, 
-  "github.com": 0, 
+  "github.com": 1, 
   "maizhong.org": 1, 
   "https443.org": 1, 
   "civildisobediencemovement.org": 1, 
