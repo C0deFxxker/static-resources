@@ -4,6 +4,7 @@
 var proxy = "HTTPS hk2.link.ac.cn:152;HTTPS tokyo2.link.ac.cn:1152;DIRECT";
 
 var domains = {
+  "atlassian.com": 1,
   "avgle.com": 1,
   "4shared.com": 1, 
   "galstars.net": 1, 
