@@ -4,6 +4,10 @@
 var proxy = "HTTPS fmt1.link.ac.cn:995;HTTPS fmt1.link.ac.cn:995;DIRECT";
 
 var domains = {
+  "gradle.org": 1,
+  "spring.io": 1,
+  "dockerhub.com": 1,
+  "docker.com": 1,
   "orientdb.com": 1,
   "terminus2049.github.io": 1, 
   "fanqianghou.com": 1, 
@@ -39,6 +43,7 @@ var domains = {
   "sunvpn.net": 1, 
   "blogcity.me": 1, 
   "irib.ir": 1, 
+  "avgle.com": 1,
   "alexlur.org": 1, 
   "netcolony.com": 1, 
   "iamtopone.com": 1, 
