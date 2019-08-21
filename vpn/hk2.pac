@@ -4,6 +4,12 @@
 var proxy = "HTTPS hk2.link.ac.cn:152;HTTPS tokyo2.link.ac.cn:1152;DIRECT";
 
 var domains = {
+  "gohugo.io": 1,
+  "gradle.org": 1,
+  "spring.io": 1,
+  "dockerhub.com": 1,
+  "docker.com": 1,
+  "orientdb.com": 1,
   "atlassian.com": 1,
   "avgle.com": 1,
   "4shared.com": 1, 

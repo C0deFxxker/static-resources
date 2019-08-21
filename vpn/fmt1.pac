@@ -4,6 +4,7 @@
 var proxy = "HTTPS fmt1.link.ac.cn:995;HTTPS fmt1.link.ac.cn:995;DIRECT";
 
 var domains = {
+  "gohugo.io": 1,
   "gradle.org": 1,
   "spring.io": 1,
   "dockerhub.com": 1,
